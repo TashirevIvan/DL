@@ -1,0 +1,3 @@
+[submodule "FastDepthCompletionCPU"]
+	path = FastDepthCompletionCPU
+	url = ./FastDepthCompletionCPU
